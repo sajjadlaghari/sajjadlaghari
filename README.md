@@ -1,4 +1,4 @@
-Hello, Myself Sajjad Laghari as a full-stack developer, my expertise spans across the entire web development stack, from front-end to back-end. I have a strong foundation in various programming languages and frameworks, including React, Laravel, DJango
+Hello, Myself Sajjad Laghari iam a full-stack developer, my expertise spans across the entire web development stack, from front-end to back-end. I have a strong foundation in various programming languages and frameworks, including React, Laravel, DJango
 
 On the front end, I excel in creating intuitive and responsive user interfaces that deliver a smooth user experience. I am proficient in HTML, CSS, and JavaScript and have extensive experience using modern front-end frameworks such as React and Vue. I understand the importance of accessibility, performance, and cross-browser compatibility in web development and make sure to implement best practices in these areas.
 
