@@ -4,8 +4,8 @@ Hi, I’m Sajjad Ali, Full Stack Developer Front End and Back End
 
 ✓ Front-End Skills:
 
-  React JS, Next JS - Redux Toolkit -  - State Management
-  JavaScript | jQuery | HTML5 | CSS3 | AJAX 
+  ```React JS, Next JS - Redux Toolkit -  - State Management```
+  ```JavaScript | jQuery | HTML5 | CSS3 | AJAX ```
 
 ✓ UI Framework Skills:
 
