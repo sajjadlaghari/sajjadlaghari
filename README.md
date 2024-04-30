@@ -3,22 +3,28 @@ Hi, I’m Sajjad Ali, Full Stack Developer Front End and Back End
 4+ years of experience in Full Stack development which includes HTML5, CSS3, SCSS, JAVASCRIPT, JQUERY, AJAX, JSON, Bootstrap, Tailwind CSS,  PHP, Laravel, MySQL, Python, Django, React JS, Next JS, REST  APIs integration.
 
 ✓ Front-End Skills:
+
   React JS, Next JS - Redux Toolkit -  - State Management
   JavaScript | jQuery | HTML5 | CSS3 | AJAX 
 
 ✓ UI Framework Skills:
+
   Tailwind CSS | Bootstrap 
 
 ✓ Programming Skills:
+
   JavaScript | Next.js | React.js | PHP | Python | Django | Core PHP 
 
 ✓ Back-End Skills:
+
   PHP| Laravel | Python | Django | MYSQLI | Ajax | JSON | Rest API
 
 ✓ Database Skills:
+
   MySQL.
 
 ✓ Other Skills:
+
   GitHub
 
 Programming became my passion after enrolment in bachelor’s program of computer software engineering.
