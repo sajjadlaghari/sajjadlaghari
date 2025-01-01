@@ -1,6 +1,6 @@
 Hi, I’m Sajjad Ali, Full Stack Developer Front End and Back End
 
-3+ years of experience in Full Stack development which includes HTML5, CSS3, SCSS, JAVASCRIPT, JQUERY, AJAX, JSON, Bootstrap, Tailwind CSS,  PHP, Laravel, MySQL, Python, Django, React JS, Next JS, REST  APIs integration.
+4+ years of experience in full Stack development which includes HTML5, CSS3, SCSS, JAVASCRIPT, JQUERY, AJAX, JSON, Bootstrap, Tailwind CSS,  PHP, Laravel, Node js, Express js, MongoDB, MySQL, Python, Django, React JS, Next JS, REST  APIs integration.
 
 ##### ✓ Front-End Skills:
  ```  React JS, Next JS - Redux Toolkit -  - State Management```
@@ -21,11 +21,11 @@ Hi, I’m Sajjad Ali, Full Stack Developer Front End and Back End
 ##### ✓ Other Skills:
     ```GitHub ```
 
-Programming became my passion after enrolment in bachelor’s program of computer software engineering.
+Programming became my passion after enrolment in bachelor’s program of Computer Science.
 
 I spent 4+ years in pursuing my passion by fully focusing on crafting rich experience in Front End and Back End for different Companies as full time and part time and Freelance job.
 
-Currently, I am working as a full time Full Stack Developer at TeamX Pakistan located in Karachi Pakistan.
+Currently, I am working as a full time Full Stack Developer.
 
 I’m exceptionally obsessive and multi-disciplined developer who only cares about quality work and code.
 
