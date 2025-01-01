@@ -23,7 +23,7 @@ Hi, I’m Sajjad Ali, Full Stack Developer Front End and Back End
 
 Programming became my passion after enrolment in bachelor’s program of computer software engineering.
 
-I spent 3+ years in pursuing my passion by fully focusing on crafting rich experience in Front End and Back End for different Companies as full time and part time and Freelance job.
+I spent 4+ years in pursuing my passion by fully focusing on crafting rich experience in Front End and Back End for different Companies as full time and part time and Freelance job.
 
 Currently, I am working as a full time Full Stack Developer at TeamX Pakistan located in Karachi Pakistan.
 
@@ -33,4 +33,3 @@ I’m exceptionally obsessive and multi-disciplined developer who only cares abo
 🌱 I’m currently learning Data Science & AI
 👯 I’m open for freelance projects
 👯 I’m open for new opportunities
-👯 I’m open for Data Science Internship Part time
