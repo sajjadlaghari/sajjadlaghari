@@ -39,7 +39,6 @@ Currently, I am working as a full time Full Stack Developer.
 
 I’m exceptionally obsessive and multi-disciplined developer who only cares about quality work and code.
 
-
 🔭 I believe in free education.
 🌱 I’m currently learning Data Science & AI
 👯 I’m open for freelance projects
