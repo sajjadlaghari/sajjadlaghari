@@ -8,7 +8,8 @@ Hi, I’m Sajjad Ali, Full Stack Developer Front End and Back End
    <a href="https://www.linkedin.com/in/sajjadlaghari">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+    </div>
+    </h1>
 
 ##### ✓ Front-End Skills:
  ```  React JS, Next JS - Redux Toolkit -  - State Management```
