@@ -10,6 +10,7 @@ Hi, I’m Sajjad Ali, Full Stack Developer Front End and Back End
   </a>
     </div>
     </h1>
+    
 
 ##### ✓ Front-End Skills:
  ```  React JS, Next JS - Redux Toolkit -  - State Management```
@@ -37,6 +38,7 @@ I spent 4+ years in pursuing my passion by fully focusing on crafting rich exper
 Currently, I am working as a full time Full Stack Developer.
 
 I’m exceptionally obsessive and multi-disciplined developer who only cares about quality work and code.
+
 
 🔭 I believe in free education.
 🌱 I’m currently learning Data Science & AI
