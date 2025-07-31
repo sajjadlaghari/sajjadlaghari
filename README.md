@@ -74,3 +74,9 @@ Welcome to my GitHub profile! I'm a results-driven Software Engineer with a stro
 - 📧 Email: sajjadlaghari723@gmail.com
 
 ---
+### 📢 Quote I Live By
+ 
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+ 
+---
+ 
