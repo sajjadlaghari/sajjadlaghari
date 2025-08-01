@@ -79,6 +79,6 @@ Welcome to my GitHub profile! I'm a results-driven Software Engineer with a stro
 </p>
 📢 Quote I Live By
  
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
  
