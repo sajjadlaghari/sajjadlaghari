@@ -63,8 +63,7 @@ Welcome to my GitHub profile! I'm a results-driven Software Engineer with a stro
 
 ### 📊 GitHub Stats
 
-![Sajjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajjadlaghari&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadlaghari&layout=compact&theme=github_dark)
+  ![Sajjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjadlaghari&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp; &nbsp;  ![Sajjad's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajjadlaghari&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadlaghari&layout=compact&theme=github_dark)
 
 ---
 <h3>Find & contact me</h3>
