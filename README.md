@@ -59,13 +59,6 @@ Welcome to my GitHub profile! I'm a results-driven Software Engineer with a stro
 - Continuously learn and adopt new technologies across software and data disciplines
 
 ---
-
-
-### 📊 GitHub Stats
-
-  ![Sajjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjadlaghari&show_icons=true&theme=radical)  &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadlaghari&layout=compact&theme=github_dark)
-
----
 <h3>Find & contact me</h3>
 <p>
 
