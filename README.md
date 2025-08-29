@@ -3,7 +3,6 @@
 ## 💻 Software Engineer | 🌐 Full-Stack Developer | 📊 Aspiring Data Scientist | 📈 Lifelong Learner
 
 Welcome to my GitHub profile! I'm a results-driven Software Engineer with a strong passion for building robust, user-focused web applications using modern technologies. I specialize in both frontend and backend development, and I’m currently expanding my expertise into **Data Science**, exploring data analysis, visualization, and machine learning.
-
 ---
 
 ### 🌍 Portfolio
